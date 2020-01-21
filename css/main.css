@@ -1896,7 +1896,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff6946;
+  background: #e78803;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2025,13 +2025,10 @@ img:hover {
 .footer-inner {
   text-align: center;
 }
-#animate {
-  animation: iconAnimate 1.33s ease-in-out infinite;
-}
 .with-love {
   display: inline-block;
   margin: 0 5px;
-  color: #ff0000;
+  color: ;
 }
 .powered-by,
 .theme-info {
